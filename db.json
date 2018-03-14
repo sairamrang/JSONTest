@@ -1,11 +1,12 @@
 {
-    "posts": [
+    "Articles": [
       {
         "id": 1,
-        "title": "hello"
+        "title": "hello",
+        "author" : "Sai"
       }
     ],
     "profile": {
-      "name": "typicode"
+      "name": "LoggedUser"
     }
   }
